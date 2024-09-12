@@ -39,6 +39,26 @@ Markdown é uma linguagem de marcação de texto simples e fácil de usar, que p
 
 - Para separar o título das colunas do conteúdo, é necessário usar uma linha de demarcação com pelo menos três traços (-)
 
+### Melhores sites para aprimorar Markdown
+- **Bear:** O Bear é um aplicativo de anotações simpleis para dispositivos macOS e iOS.
+
+- **Boostnote:** O Boostnote é uma ferramenta gratuita e robusta mais voltada para desenvolvedores, porém o suporte ao Markdown é excelente.
+
+- **Byword:** O Byword é um programa compatível com Markdown destinado aos sistemas macOS e iOS. Você edita um documento md e exporta para um formato de sua escolha.
+
+- **CodiMD:** O CodiMD é um editor de código fonte aberto que oferece o recurso de colaboração em tempo real, além é claro, de ser compatível com o Markdown.
+
+- **Dillinger:** O Dilliger é um editor Markdown prático, ele carrega diretamente no seu navegador, ou seja, não há a necessidade de instalar nenhum aplicativo no seu computador.
+
+- **Docusaurus:** O Docusaurus é uma ferramenta desenvolvida pela galera do Facebook que permite a criação de sites estáticos usando como base documentos Markdown.
+
+- **Ghost:** O Ghost é uma ferramenta poderosa para blogueiros que concorre diretamente com o WordPress e com o Drupal.
+
+- **GitBook:** O GitBook é uma ferramenta online que hospeda sites de documentação com suporte ao Markdown.
+
+- **GitHub Pages:** O GitHub Pages é um serviço da Web que permite que o usuário hospede um site gratuitamente criado a partir de arquivos Markdown.
+
+  Fora estes cidados, existe uma lista extensa com os melhores editores Markdown.
 
 ## Gerador de READM.md (perfil do GitHub)
 
